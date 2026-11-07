@@ -42,10 +42,14 @@ Built on an Laptop. The webpage, backend, database, and Ollama models run on the
 
 <table>
   <tr>
-    <td align="center"><a href="assets/ss1.png"><img src="assets/ss1.png" alt="Plant Clinic screenshot 1" height="220"></a></td>
-    <td align="center"><a href="assets/ss2.png"><img src="assets/ss2.png" alt="Plant Clinic screenshot 2" height="220"></a></td>
+    <td width="140"></td>
+    <td align="center"><a href="assets/ss1.png"><img src="assets/ss1.png" alt="Plant Clinic screenshot 1" height="600"></a></td>
+    <td width="140"></td>
+    <td align="center"><a href="assets/ss2.png"><img src="assets/ss2.png" alt="Plant Clinic screenshot 2" height="600"></a></td>
+    <td width="140"></td>
   </tr>
 </table>
+<img src="assets/ss3.png" alt="Plant Clinic screenshot 3" >
 
 _YouTube walkthrough coming soon—see the Live Demo link above once added._
 
