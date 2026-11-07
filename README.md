@@ -44,7 +44,6 @@ Built on an Laptop. The webpage, backend, database, and Ollama models run on the
   <tr>
     <td align="center"><a href="assets/ss1.png"><img src="assets/ss1.png" alt="Plant Clinic screenshot 1" height="220"></a></td>
     <td align="center"><a href="assets/ss2.png"><img src="assets/ss2.png" alt="Plant Clinic screenshot 2" height="220"></a></td>
-    <td align="center"><a href="assets/ss3.png"><img src="assets/ss3.png" alt="Plant Clinic screenshot 3" height="220"></a></td>
   </tr>
 </table>
 
