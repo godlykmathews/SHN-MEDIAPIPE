@@ -1,0 +1,11 @@
+.venv/
+.uv-cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/
+models/*.tflite
+models/*.task
+*.log
+.DS_Store

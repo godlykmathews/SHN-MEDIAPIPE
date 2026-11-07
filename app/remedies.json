@@ -1,0 +1,227 @@
+[
+  {
+    "id": "aphids",
+    "title": "Aphids",
+    "aliases": ["aphid", "aphids", "greenfly", "blackfly"],
+    "immediate_actions": [
+      "Check tender shoots and the undersides of leaves for live aphid colonies.",
+      "On sturdy plants, dislodge exposed aphids with a firm spray of plain water."
+    ],
+    "treatment": [
+      "Prune small, heavily infested shoots when practical, then inspect new growth again.",
+      "Preserve lady beetles, lacewings, and other predators; a small colony on an established plant may need only monitoring."
+    ],
+    "prevention": [
+      "Inspect actively growing plants regularly and avoid excessive nitrogen fertilizer.",
+      "Manage ants that protect aphids, and avoid broad-spectrum insecticide use that disrupts natural enemies."
+    ],
+    "sources": [{"title": "UC IPM: Aphids", "url": "https://ipm.ucanr.edu/home-and-landscape/aphids/"}]
+  },
+  {
+    "id": "whiteflies",
+    "title": "Whiteflies",
+    "aliases": ["whitefly", "whiteflies", "bemisia", "trialeurodes"],
+    "immediate_actions": [
+      "Inspect leaf undersides for immature whiteflies; flying adults alone do not establish the severity of damage.",
+      "Remove a few isolated, heavily infested leaves and check adjacent plants."
+    ],
+    "treatment": [
+      "Use a water spray on sturdy plants to reduce exposed adults.",
+      "Use yellow sticky traps to monitor activity and preserve predators that help suppress the population."
+    ],
+    "prevention": [
+      "Inspect new plants before bringing them into the growing area.",
+      "Reduce dust and ant activity, and remove infested annual plants after their productive season."
+    ],
+    "sources": [{"title": "UC IPM: Whiteflies", "url": "https://ipm.ucanr.edu/home-and-landscape/whiteflies/"}]
+  },
+  {
+    "id": "spider_mites",
+    "title": "Spider mites",
+    "aliases": ["spider mite", "spider mites", "two spotted spider mite", "two-spotted spider mite", "tetranychus"],
+    "immediate_actions": [
+      "Inspect leaf undersides with magnification for mites and fine webbing before treating.",
+      "Check whether the plant is water-stressed; maintain moisture appropriate for its species."
+    ],
+    "treatment": [
+      "Rinse the undersides of infested leaves with plain water where the plant tolerates washing.",
+      "Recheck leaves regularly; low populations on woody plants may be controlled by natural predators."
+    ],
+    "prevention": [
+      "Reduce dusty conditions around plants and avoid prolonged drought stress.",
+      "Protect predatory mites and insects; broad-spectrum insecticides can worsen spider-mite outbreaks."
+    ],
+    "sources": [{"title": "UC IPM: Spider Mites", "url": "https://ipm.ucanr.edu/home-and-landscape/spider-mites/"}]
+  },
+  {
+    "id": "mealybugs",
+    "title": "Mealybugs",
+    "aliases": ["mealybug", "mealybugs", "pseudococcidae"],
+    "immediate_actions": [
+      "Inspect leaf joints, stem crevices, pots, and supports for insects and cottony egg sacs.",
+      "Physically remove accessible insects or prune a small infested portion of the plant."
+    ],
+    "treatment": [
+      "Use a firm water spray on sturdy plants when insects are exposed, and inspect again over the following days.",
+      "If a houseplant remains severely infested, consider discarding it to protect the rest of the collection."
+    ],
+    "prevention": [
+      "Inspect new plants, pots, and tools before adding them to the growing area.",
+      "Check susceptible plants regularly because hidden colonies can survive an initial removal."
+    ],
+    "sources": [{"title": "UC IPM: Mealybugs", "url": "https://ipm.ucanr.edu/home-and-landscape/mealybugs/"}]
+  },
+  {
+    "id": "thrips",
+    "title": "Thrips",
+    "aliases": ["thrip", "thrips", "thysanoptera"],
+    "immediate_actions": [
+      "Gently tap foliage or flowers over white paper and look for the tiny insects before attributing scars to thrips.",
+      "Check fresh growth: old damage can remain after the insects have left."
+    ],
+    "treatment": [
+      "On small plants, selectively remove infested shoots rather than shearing all new growth.",
+      "Monitor with yellow sticky traps and preserve natural predators; not every thrips species damages plants."
+    ],
+    "prevention": [
+      "Avoid excess nitrogen fertilizer and provide suitable water and light.",
+      "Reduce dust and nearby host weeds; seek a plant diagnostic service if a thrips-transmitted virus is suspected."
+    ],
+    "sources": [{"title": "UC IPM: Thrips", "url": "https://ipm.ucanr.edu/home-and-landscape/thrips/"}]
+  },
+  {
+    "id": "caterpillars",
+    "title": "Leaf-feeding caterpillars",
+    "aliases": ["caterpillar", "caterpillars", "armyworm", "hornworm", "leafroller", "cabbage looper"],
+    "immediate_actions": [
+      "Look for the caterpillar, eggs, droppings, or rolled leaves; chewing damage alone does not identify the pest.",
+      "Check how much fresh damage is occurring before taking action."
+    ],
+    "treatment": [
+      "Remove identified pest caterpillars and selectively prune rolled or webbed leaves where practical.",
+      "Tolerate minor feeding on established plants and preserve natural enemies. Do not treat plants being grown to support butterflies."
+    ],
+    "prevention": [
+      "Inspect young growth regularly to find small caterpillars before extensive feeding occurs.",
+      "Avoid broad-spectrum sprays that remove beneficial insects and other natural predators."
+    ],
+    "sources": [{"title": "UC IPM: Leaf-feeding Caterpillars", "url": "https://ipm.ucanr.edu/home-and-landscape/leaf-feeding-caterpillars/"}]
+  },
+  {
+    "id": "powdery_mildew",
+    "title": "Powdery mildew",
+    "aliases": ["powdery mildew", "powdery_mildew", "oidium", "erysiphe"],
+    "immediate_actions": [
+      "Examine both leaf surfaces for powdery patches and photograph fresh affected growth.",
+      "Improve air movement around crowded plants."
+    ],
+    "treatment": [
+      "Remove small localized infestations and fallen affected debris where practical.",
+      "Provide suitable light and avoid excessive fertilizer; management depends on the host plant and extent of infection."
+    ],
+    "prevention": [
+      "Choose resistant varieties when available and space plants for airflow.",
+      "Monitor new growth for recurrence. Do not assume powdery mildew and downy mildew need the same management."
+    ],
+    "sources": [
+      {"title": "UC IPM: Powdery Mildew on Ornamentals", "url": "https://ipm.ucanr.edu/home-and-landscape/powdery-mildew-on-ornamentals/"},
+      {"title": "UC IPM: Powdery Mildew on Vegetables", "url": "https://ipm.ucanr.edu/home-and-landscape/powdery-mildew-on-vegetables/"}
+    ]
+  },
+  {
+    "id": "rust",
+    "title": "Rust-like leaf symptoms",
+    "aliases": ["rust", "puccinia", "phragmidium"],
+    "immediate_actions": [
+      "Check lower and inner leaves for raised orange, yellow, or brown powdery spots.",
+      "Record which plant species is affected; rust fungi have specific host ranges."
+    ],
+    "treatment": [
+      "For garden flowers, remove a limited number of infected leaves without taking more than one-third of the foliage.",
+      "Collect affected debris and monitor new growth. Mild rust may be tolerated; existing spots will not disappear with treatment."
+    ],
+    "prevention": [
+      "Water the soil instead of the leaves and allow space for air movement.",
+      "Use host-appropriate resistant varieties where available; obtain crop-specific advice for fruit trees or field crops."
+    ],
+    "sources": [{"title": "UMN Extension: Rust in the flower garden", "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/yard-and-garden-problems/rust-in-the-flower-garden"}]
+  },
+  {
+    "id": "leaf_spot",
+    "title": "Leaf spots: general care while confirming the cause",
+    "aliases": ["leaf spot", "leaf spots", "leaf_spot", "septoria", "bacterial spot", "black spot", "cercospora"],
+    "immediate_actions": [
+      "Photograph both sides of affected leaves and note whether new spots are appearing.",
+      "Avoid working among plants while their foliage is wet."
+    ],
+    "treatment": [
+      "Remove a few badly affected leaves and fallen debris; do not strip more than one-third of a plant's leaves.",
+      "Keep irrigation off foliage and improve spacing. Different fungi, bacteria, and noninfectious injuries can produce similar spots."
+    ],
+    "prevention": [
+      "Inspect plants regularly, use healthy planting material, and maintain clean tools.",
+      "Use mulch to reduce soil splash and obtain a specific diagnosis if symptoms spread quickly."
+    ],
+    "sources": [{"title": "UMN Extension: Managing plant diseases in the home garden", "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/yard-and-garden-problems/managing-plant-diseases-in-the-home-garden"}]
+  },
+  {
+    "id": "early_blight",
+    "title": "Early blight of tomato or potato",
+    "aliases": ["early blight", "early_blight", "alternaria solani"],
+    "immediate_actions": [
+      "Confirm that the host is tomato or potato and compare older lower leaves with newer growth.",
+      "Keep leaves dry and water at the base of the plant."
+    ],
+    "treatment": [
+      "Remove affected leaves selectively, never more than one-third of the plant's foliage.",
+      "Clean hands and pruning tools after handling affected plants; use mulch and support plants to reduce soil splash."
+    ],
+    "prevention": [
+      "Improve airflow with appropriate spacing, supports, and weed management.",
+      "Rotate away from susceptible crops and choose resistant varieties when available. Most home tomatoes tolerate some early blight without fungicide treatment."
+    ],
+    "sources": [{"title": "UMN Extension: Early blight in tomato and potato", "url": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/early-blight-in-tomato-and-potato"}]
+  },
+  {
+    "id": "root_drainage",
+    "title": "Root or drainage concerns",
+    "aliases": ["root rot", "root_rot", "overwatering", "waterlogged", "poor drainage"],
+    "immediate_actions": [
+      "Check soil moisture and drainage before watering again. A leaf photograph cannot confirm root rot or its pathogen.",
+      "For a potted plant, check that water can leave the container and that the roots are not sitting in accumulated water."
+    ],
+    "treatment": [
+      "Correct drainage and adjust watering to the plant's needs rather than adding water automatically to a wilting plant.",
+      "If decline continues, have the roots and growing medium examined before selecting a disease treatment."
+    ],
+    "prevention": [
+      "Use an aerated, well-draining growing medium and a container with drainage holes.",
+      "Avoid persistently saturated conditions and unnecessarily oversized containers."
+    ],
+    "sources": [
+      {"title": "UC IPM: Houseplant Problems", "url": "https://ipm.ucanr.edu/home-and-landscape/houseplant-problems/"},
+      {"title": "UMN Extension: Winter houseplant tips", "url": "https://extension.umn.edu/about/our-stories/news/winter-houseplant-tips"}
+    ]
+  },
+  {
+    "id": "general",
+    "title": "General monitoring and prevention",
+    "aliases": ["healthy", "uncertain", "unknown", "general care"],
+    "immediate_actions": [
+      "Check the whole plant and both sides of its leaves, rather than relying on one photograph.",
+      "Keep a dated photo to compare with new growth."
+    ],
+    "treatment": [
+      "When no specific problem is established, continue normal plant care and monitor rather than starting a pesticide treatment.",
+      "Seek a plant diagnostic service if symptoms persist, spread, or do not fit the suggested issue."
+    ],
+    "prevention": [
+      "Provide species-appropriate light, moisture, spacing, and drainage.",
+      "Inspect new plants, clean tools, and check garden plants regularly for early signs of trouble."
+    ],
+    "sources": [
+      {"title": "UMN Extension: Managing plant diseases in the home garden", "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/yard-and-garden-problems/managing-plant-diseases-in-the-home-garden"},
+      {"title": "UC IPM: Houseplant Problems", "url": "https://ipm.ucanr.edu/home-and-landscape/houseplant-problems/"}
+    ]
+  }
+]

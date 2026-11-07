@@ -1,0 +1,12 @@
+{
+  "models": [
+    {
+      "name": "My validated leaf classifier",
+      "kind": "disease",
+      "file": "leaf_classifier.tflite",
+      "labels_file": "leaf_labels.json",
+      "source_url": "https://example.org/model-card",
+      "enabled": true
+    }
+  ]
+}
