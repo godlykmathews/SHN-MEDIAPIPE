@@ -51,7 +51,9 @@ Built on an Laptop. The webpage, backend, database, and Ollama models run on the
 </table>
 <img src="assets/ss3.png" alt="Plant Clinic screenshot 3" >
 
-_YouTube walkthrough coming soon—see the Live Demo link above once added._
+## Demo Video
+[![Watch the Demo Video](https://img.youtube.com/vi/Gbx4RItzKkI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gbx4RItzKkI)
+
 
 ### ✨ Cool Things It Does
 
