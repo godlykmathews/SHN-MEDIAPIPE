@@ -5,7 +5,7 @@
 
 A local plant and garden-pest photo journal, built for Saturday Hack Night. Capture or upload a photograph, inspect possible problems, read practical care notes, and revisit every scan. The interface uses a cream grid background, bold type, pastel cards, and dark outlines.
 
-![Project Cover](assets/mainss.png)
+![Project Cover](assets/ssmain.png)
 
 ## Run on this machine
 
