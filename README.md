@@ -12,7 +12,7 @@ Plant Clinic is a local web app that helps you investigate plant diseases and ga
 
 - **Live Website:** N/A — runs locally at `http://localhost:8000`.
 - **GitHub Repo:** [godlykmathews/SHN-MEDIAPIPE](https://github.com/godlykmathews/SHN-MEDIAPIPE)
-- **Live Demo (YouTube):** _Add your YouTube demo link here._
+- **Live Demo (YouTube):** https://youtu.be/Gbx4RItzKkI
 
 ### 🛠️ What did you use?
 
@@ -34,11 +34,14 @@ Current image analysis uses Ollama vision. A specialist MediaPipe model still ne
 
 ### ⚙️ Hardware Corner
 
-Built on an Apple silicon Mac. The webpage, backend, database, and Ollama models run on the same machine. Use a camera for new photos or upload existing images; no separate hardware server is required.
+Built on an Laptop. The webpage, backend, database, and Ollama models run on the same machine. Use a camera for new photos or upload existing images; no separate hardware server is required.
 
 ### 📸 Show Us What You Built!
 
 ![Plant Clinic webpage](assets/ssmain.png)
+![Plant Clinic webpage](assets/ss1.png)
+![Plant Clinic webpage](assets/ss2.png)
+![Plant Clinic webpage](assets/ss3.png)
 
 _YouTube walkthrough coming soon—see the Live Demo link above once added._
 
